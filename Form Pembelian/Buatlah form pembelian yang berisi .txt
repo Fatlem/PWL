@@ -1,0 +1,1 @@
+Buatlah form pembelian yang berisi dua inputan yaitu jumlah pembelian dan harga satuan jika jumlah pembelian lebih dari sama dengan sepuluh maka mendapatkan diskon 25%, hitunglah total pembayaran 
